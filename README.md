@@ -1,5 +1,5 @@
-👋 Hi, I’m Márton
-👀 I’m interested in full-stack development and machine learning, and I am open to any kind of new interesting knowledge.
+👋 Hi, I’m Márton  
+👀 I’m interested in full-stack development and machine learning, and I am open to any kind of new interesting knowledge.  
 📫 matusekma@gmail.com
 
 <!---
